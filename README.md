@@ -1,1 +1,1 @@
-Привет от <a href="https://github.com/myGitHubName">@3loyMen</a><br>
+Привет от <a href="https://github.com/3loyMen">@3loyMen</a><br>
